@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/wall"/>
+    <qresource prefix="/lab"/>
+    <qresource prefix="/">
+        <file>../img/13.jpg</file>
+        <file>../img/9.png</file>
+        <file>../img/17.jpeg</file>
+        <file>../img/1.png</file>
+        <file>../img/7.png</file>
+        <file>../img/8.png</file>
+        <file>../img/16.webp</file>
+        <file>../img/21.png</file>
+        <file>../img/22.png</file>
+        <file>../img/23.png</file>
+        <file>../img/24.png</file>
+    </qresource>
+    <qresource prefix="/im"/>
+</RCC>
